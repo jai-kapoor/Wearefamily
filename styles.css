@@ -143,4 +143,15 @@ body {
 }
 
 
+/* .cover-image1 {
+  width: 300px;
+  height: auto; 
+} */
 
+
+.audio img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
